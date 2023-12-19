@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+- 🌱 I’m currently learning about RPC as a protocol for inter-services communucations!
+- 😄 Pronouns: He/him/his
+- ⚡️ I've been baking sourdough bread since '17!
+- 📫 How to reach me: www.andreashailu.com
 
 <!--
 **hailuand/hailuand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
