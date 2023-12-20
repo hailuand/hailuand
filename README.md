@@ -1,8 +1,8 @@
-### Hi there 👋🏾
+### Software Engineer & Principal Baker 👋🏾
 
-- 🌱 I’m currently learning about RPC as a protocol for inter-services communucations!
-- 😄 Pronouns: He/him/his
-- ⚡️ I've been baking sourdough bread since '17!
+- 🌱 Currently learning: to make [panettone](https://en.wikipedia.org/wiki/Panettone), and RPC as a protocol for interservice communucations
+- 😄 Pronouns: he/him/his
+- ⚡️ Fun fact: I've been baking sourdough bread since 2016
 - 📫 How to reach me: www.andreashailu.com
 
 <!--
