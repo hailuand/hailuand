@@ -1,6 +1,6 @@
 ### Software Engineer & Principal Baker 👋🏾
 
-- 🌱 Currently learning: [Rust](https://github.com/rust-lang/rustlings) 🦀, sharpening up my Python 🐍, and how to make [panettone](https://en.wikipedia.org/wiki/Panettone)
+- 🌱 Currently learning: [Go](https://go.dev)
 - 😄 Pronouns: he/him/his
 - ⚡️ Fun fact: I've been baking sourdough bread since 2016
 - 📫 How to reach me: www.andreashailu.com
